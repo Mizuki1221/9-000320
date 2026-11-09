@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script type="module"
+src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
+</script>
+</head>
+<body style="margin:0">
+
+<model-viewer
+src="9-000320.glb"
+camera-controls
+auto-rotate
+style="width:100vw;height:100vh;">
+</model-viewer>
+
+</body>
+</html>
